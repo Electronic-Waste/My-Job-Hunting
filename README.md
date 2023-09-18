@@ -30,12 +30,12 @@
 
 ## 学习资料
 
-1. [cppreference](https://zh.cppreference.com/w/首页) （不用多说，学习常见的STL用法看官方文档以及示例效率最高）
+1. [cppreference](https://zh.cppreference.com/w/首页) （不用多说，学习常见的STL用法看官方文档效率最高）
 2. [hello算法](https://www.hello-algo.com) （krahets大神的数据结构教程，通俗易懂）
 3. [牛客网](https://www.nowcoder.com) （各种面经，还有各种焦虑...）
 4. 计算机网络推荐Stanford的CS144，质量很高，讲得很清楚
 
-## 投递记录
+## 投递记录(2023summer)
 
 > 略去简历挂/无回音的企业
 
