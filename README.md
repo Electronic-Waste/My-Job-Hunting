@@ -9,6 +9,13 @@
 
 下面浅浅记录一下...
 
+| 企业   | 岗位                 | 面试流程                                         | 结果     |
+| ------ | -------------------- | ------------------------------------------------ | -------- |
+| 字节   | 系统工程实习生       | [三轮技术面](./interview/ByteDance.md)           | Reject😭  |
+| 九坤   | Kubernetes开发实习生 | [一轮笔试](./interview/Ubiquant.md)(等待后续...) | Waiting🤔️ |
+| 天王星 | C++软件开发工程师    | [HR面](./interview/Uranus.md)                    | Reject😭  |
+| Intel  | BigDL-LLM组实习生    | [两轮技术面](./interview/Intel.md)               | Offer😋   |
+
 ## 简历
 
 我用的是由@gaocegege维护的[Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese) latex模版
@@ -34,39 +41,6 @@
 2. [hello算法](https://www.hello-algo.com) （krahets大神的数据结构教程，通俗易懂）
 3. [牛客网](https://www.nowcoder.com) （各种面经，还有各种焦虑...）
 4. 计算机网络推荐Stanford的CS144，质量很高，讲得很清楚
-
-## 投递记录(2023summer)
-
-> 略去简历挂/无回音的企业
-
-- 字节-系统工程架构师-系统架构（日常实习）
-
-- [x] 简历投递
-- [x] [业务一面](./interview/字节一面)（顺利通过...）
-- [x] [业务二面](./interview/字节二面.md)（顺利通过...）
-- [x] [业务三面](./interview/字节三面)（挂掉...）
-
-- 九坤-Kubernetes开发实习生（日常实习）
-
-- [x] 简历投递
-- [x] [笔试](./interview/九坤笔试.md)（等待后续中...）
-
-- Intel-BigDL组（日常实习）
-
-- [x] 简历投递
-- [x] [技术一面](./interview/Intel一面.md)
-- [x] [技术二面](./interview/Intel二面.md)
-- [x] Offer! 
-
-- 天王星量化- C++软件工程师开发（校招）
-
-- [x] 简历投递
-- [x] [HR面](./interview/天王星HR面.md)(已挂)
-
-- Akuna - Junior Quantitive Developer（校招）
-
-- [x] 简历投递
-- [x] 笔试（三道HackerRank上的算法题，等待后续中...）
 
 ## 其它说明
 
