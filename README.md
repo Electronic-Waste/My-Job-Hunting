@@ -19,13 +19,13 @@
 
 ## 简历
 
-我用的是由@gaocegege维护的[Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese) latex模版，中英文版本都有，我的中文版简历预览如下：
+我用的是由@gaocegege维护的[Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese) latex模版，中英文版本都有，我的[中文版简历](./resume/resume.pdf)如下：
 
 <div align="center">
     <img src="./resume/resume.png" width=550>
 </div>
 
-感谢你院硬核的课程，让我好歹能在简历上放几个比较solid的项目。面试官一般都会追着你简历上的项目问，并根据你的项目延伸出来一些八股，所以需要对自己做过的项目非常的熟悉。我把我项目的复习资料放在了[resume文件夹](./resume/)下，大家可以参考这种形式去准备自己的项目，把项目细节吃透，把可能被问到的题目提前准备一下。
+感谢你院硬核的课程，让我好歹能在简历上放几个比较solid的项目。面试官一般都会追着你简历上的项目问，并根据你的项目延伸出来一些八股，所以需要对自己做过的项目非常的熟悉。我把我项目的复习资料放在了[project文件夹](./project/)下，大家可以参考这种形式去准备自己的项目，把项目细节吃透，把可能被问到的题目提前准备一下。
 
 ## 算法
 
@@ -35,8 +35,6 @@
 
 1. [剑指offer](https://leetcode.cn/studyplan/coding-interviews/)（相当的经典，强烈推荐）
 2. [LeetCode 热题 100](https://leetcode.cn/studyplan/top-100-liked/)（也都是很常见的题）
-
-![](./img/leetcode.png)
 
 ## 八股
 
