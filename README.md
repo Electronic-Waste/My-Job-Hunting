@@ -19,7 +19,9 @@
 
 ## 简历
 
-我用的是由@gaocegege维护的[Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese) latex模版。
+我用的是由@gaocegege维护的[Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese) latex模版，中英文版本都有，我的中文版简历预览如下：
+
+![](./resume/resume.png)
 
 感谢你院硬核的课程，让我好歹能在简历上放几个比较solid的项目。事实是面试官一般都会追着你简历上的项目问，所以需要对自己做过的项目非常的熟悉。
 
