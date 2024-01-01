@@ -1,6 +1,6 @@
 # My-Job-Hunting
 
-这个Repo用来记录我找工作/实习的过程和一点经验分享，会随着我找工作的进度不定期更新。我的找工之旅开始于大三升大四的暑假，never comes to an end！
+这个Repo用来记录我找工作/实习的过程和一点经验分享，会随着我找工作的进度不定期更新，never comes to an end！
 
 ## 大三暑假
 
@@ -21,22 +21,28 @@
 
 我用的是由@gaocegege维护的[Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese) latex模版，中英文版本都有，我的中文版简历预览如下：
 
-![](./resume/resume.png)
+<div align="center">
+    <img src="./resume/resume.png" width=550>
+</div>
 
-感谢你院硬核的课程，让我好歹能在简历上放几个比较solid的项目。事实是面试官一般都会追着你简历上的项目问，所以需要对自己做过的项目非常的熟悉。
+感谢你院硬核的课程，让我好歹能在简历上放几个比较solid的项目。面试官一般都会追着你简历上的项目问，并根据你的项目延伸出来一些八股，所以需要对自己做过的项目非常的熟悉。我把我项目的复习资料放在了[resume文件夹](./resume/)下，大家可以参考这种形式去准备自己的项目，把项目细节吃透，把可能被问到的题目提前准备一下。
 
 ## 算法
 
-暑假里我三天打鱼两天晒网，刷了大概150道LeetCode题，属于勉勉强强够用的水平...😇
+我刷题是三天打鱼两天晒网类型的，集中在面试前突击。到目前为止我刷了快200道LeetCode题，虽然比不上那些动辄800+的大佬，但是感觉面试已经差不多够用了（要是面试官非得出不常见的难题，那只好自认倒霉了😇）。
 
-推荐几个比较经典的题集，跟着好好做一定能有所提升：
+特别推荐几个题集，里面的题目经常会考到：
 
 1. [剑指offer](https://leetcode.cn/studyplan/coding-interviews/)（相当的经典，强烈推荐）
 2. [LeetCode 热题 100](https://leetcode.cn/studyplan/top-100-liked/)（也都是很常见的题）
 
+![](./img/leetcode.png)
+
 ## 八股
 
-实战学习...🤡
+我基本是实战学习...🤡
+
+我整理了一些[C++八股](./c++/)和[system八股](./system/)，有兴趣可以看一下。
 
 ## 学习资料
 
