@@ -17,6 +17,10 @@
 | 天王星 | C++软件开发工程师   | [HR面](./interview/Uranus.md)                    | Reject😭  |
 | Intel  | BigDL-LLM组实习生    | [两轮技术面](./interview/Intel.md)               | Offer😋   |
 
+## 大四寒假
+
+TODO：先占一个坑
+
 ## 简历
 
 我用的是由@gaocegege维护的[Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese) latex模版，中英文版本都有，我的[中文版简历](./resume/resume.pdf)如下：
@@ -31,10 +35,11 @@
 
 我刷题是三天打鱼两天晒网类型的，集中在面试前突击。到目前为止我刷了快200道LeetCode题，虽然比不上那些动辄800+的大佬，但是感觉面试已经差不多够用了（要是面试官非得出不常见的难题，那只好自认倒霉了😇）。
 
-特别推荐几个题集，里面的题目经常会考到：
+特别推荐几个题集：
 
 1. [剑指offer](https://leetcode.cn/studyplan/coding-interviews/)（相当的经典，强烈推荐）
-2. [LeetCode 热题 100](https://leetcode.cn/studyplan/top-100-liked/)（也都是很常见的题）
+2. [LeetCode 热题 100](https://leetcode.cn/studyplan/top-100-liked/)（经常会考到）
+3. [代码随想录](https://programmercarl.com)（题量大、题解很详细，推荐跟着做一遍，尤其是DP）
 
 ## 八股
 
