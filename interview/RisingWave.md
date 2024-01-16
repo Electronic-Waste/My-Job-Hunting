@@ -8,6 +8,8 @@
 
 是怎么从单节点的inode-based fs扩展成基于Raft的分布式fs的？
 
+你这个分布式的fs要提供什么样的服务？
+
 Raft中worker node挂了和leader node挂了分别对服务会有什么影响
 
 Chfs里单词统计MapReduce是咋实现的？
