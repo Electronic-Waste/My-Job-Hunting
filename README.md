@@ -4,15 +4,15 @@
 
 ## 简历
 
-我用的是由@gaocegege维护的[Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese) latex模版，中英文版本都有，我的[中文版简历](./resume/resume.pdf)如下：
-
 <div align="center">
     <img src="./resume/resume.png" width=550>
 </div>
 
+我使用的简历模版是由@gaocegege维护的[模版](https://github.com/dyweb/Deedy-Resume-for-Chinese)，中英文版本都有。另外推荐一个由@dyweb维护的[模版大全](https://github.com/dyweb/awesome-resume-for-chinese)，可以在里面挑选自己觉得好看的模版。
+
 感谢你院硬核的课程，让我好歹能在简历上放几个比较solid的项目。面试官一般都会追着你简历上的项目问，并根据你的项目延伸出来一些八股，所以需要对自己做过的项目非常的熟悉。
 
-我把我项目的复习资料放在了[project文件夹](./project/)下，大家可以参考这种形式去准备自己的项目。
+项目的具体资料在[project文件夹](./project/)下，有兴趣的话可以看一看。
 
 ## 算法
 
@@ -32,24 +32,25 @@ Leetcode特别推荐几个题集：
 
 我基本是实战学习...🤡
 
-我整理了一些[C++八股](./c++/)和[system八股](./system/)，有兴趣可以看一下。
+我整理了一些[Modern C++特性](./c++/)和[分布式系统](./system/)的一些资料，有兴趣可以看一下。
 
 ## 学习资料
 
-1. [cppreference](https://zh.cppreference.com/w/首页) （学习常见的STL用法看官方文档效率最高）
-2. [hello算法](https://www.hello-algo.com) （krahets大神的数据结构教程，通俗易懂）
-3. [CS-Notes面试笔记](https://cyc2018.xyz)（技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计）
-4. [CS自学指南](https://csdiy.wiki)（真正学过一遍理解通透了，八股才能记得更牢）
+1. [cppreference](https://zh.cppreference.com/w/首页)：学习常见的STL用法看官方文档效率最高）
+2. [hello算法](https://www.hello-algo.com)：krahets大神的数据结构教程，通俗易懂
+3. [CS-Notes面试笔记](https://cyc2018.xyz)：技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+4. [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)：一个美国老哥从零开始准备大厂面试的历程，包括学习计划和相关的学习资料
+5. [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)：系统设计题学习资料
+6. [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)：系统设计题学习资料
 
 ## 面经
 
-随缘整理了一些面经，可以作为参考
+随缘整理了一些笔试题/面经，可以作为参考
 
 | 企业   | 岗位                 | 面试流程                                         | 结果     |
 | ------ | -------------------- | ------------------------------------------------ | -------- |
 | 字节   | 系统工程实习生      | [三轮技术面](./interview/ByteDance.md)           | Reject😭  |
 | 九坤   | Kubernetes开发实习生 | [一轮笔试](./interview/Ubiquant.md)(等待后续...) | Waiting🤔️ |
-| 天王星 | C++软件开发工程师   | [HR面](./interview/Uranus.md)                    | Reject😭  |
 | Intel  | BigDL-LLM组实习生    | [两轮技术面](./interview/Intel.md)               | Offer😋   |
 | RisingWave | 数据库内核开发实习生 | [一轮技术面](./interview/RisingWave.md)        | Reject😭  |
 | BondiTech | 基础架构实习生 | - - - | Offer😋 |
