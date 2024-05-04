@@ -60,6 +60,7 @@ Leetcode特别推荐几个题集：
 | Intel  | BigDL-LLM组实习生    | [两轮技术面](./interview/Intel.md)               | Offer😋   |
 | RisingWave | 数据库内核开发实习生 | [一轮技术面](./interview/RisingWave.md)        | Reject😭  |
 | BondiTech | 基础架构实习生 | - - - | Offer😋 |
+| GSoC | Kubeflow Community | [Proposal](./interview/Proposal%20for%20GSoC%202024.pdf) | Offer😋 |
 
 ## 其它说明
 
