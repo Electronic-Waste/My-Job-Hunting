@@ -62,6 +62,7 @@ Leetcode特别推荐几个题集：
 | BondiTech | 基础架构实习生 | - - - | Offer😋 |
 | GSoC | Kubeflow Community | [Proposal](./interview/Proposal%20for%20GSoC%202024.pdf) | Offer😋 |
 | LFX Mentorship | KubeEdge Commnity | - - - | Offer😋 |
+| Databend | Cloud开发 | [两轮技术面](./interview/Databend.md) | Offer😋 |
 
 ## 其它说明
 
